@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6581443949971158542}
   - component: {fileID: 2132237132568623357}
   - component: {fileID: 3439684181276778618}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Platform Move 520
   m_TagString: PlateformMove
   m_Icon: {fileID: 0}
@@ -28,7 +28,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 4, y: 4, z: 4}
+  m_LocalScale: {x: 1.6597509, y: 4, z: 1.7316016}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 5789315222762764565}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4652329573806549489}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 28223cabae080194e82242fa4a650caa, type: 3}
   m_Name: 
@@ -87,7 +87,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8733201799957799457}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: TODO MoveManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -121,6 +121,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PROFIL 520MM (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5753445069451088612, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7499729398764800650, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
         type: 3}
@@ -196,6 +201,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PROFIL 520MM (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5753445069451088612, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7499729398764800650, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -269,6 +279,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PROFIL 520MM (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5753445069451088612, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7499729398764800650, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
         type: 3}
@@ -344,6 +359,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PROFIL 520MM (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5753445069451088612, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7499729398764800650, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -417,6 +437,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PROFIL 520MM (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5753445069451088612, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7499729398764800650, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
         type: 3}
@@ -492,6 +517,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PROFIL 520MM (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5753445069451088612, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7499729398764800650, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -565,6 +595,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PROFIL 520MM
+      objectReference: {fileID: 0}
+    - target: {fileID: 5753445069451088612, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7499729398764800650, guid: e3c4aa245ede86d46a0fc2a384ab5f3f,
         type: 3}
