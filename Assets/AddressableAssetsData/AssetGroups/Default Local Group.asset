@@ -1,0 +1,290 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 014e3c127b2ed0849975b94b4cebc002
+  m_SerializeEntries:
+  - m_GUID: 00a4f7316a7503b43bb979f22118fea3
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9c579dc590c03d42abfdad7cdf00e2c
+    m_Address: PlayerProp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddb2ce2fc85e1fb47be201e0ab5800a2
+    m_Address: SHELF_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bacd95c0645dda345a5e846d47225cb9
+    m_Address: SHELF_G
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09a161e98fbf1ad49bf05db361d77f8c
+    m_Address: SHELF_R
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b86051692fef3fb4bb71d894148e8c49
+    m_Address: SHELF_Y
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68f16fd5bf49dbf4994f64c4171e6712
+    m_Address: CSENE_S1_ENDERS_GLOBAL
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3c6680bd7d6a924196544f276dc74c5
+    m_Address: CESI_FormLabs FORM3+
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2195cf0c118803a439552fbc0a1d19de
+    m_Address: CESI_Zortrax M300 plus
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a6e2a295543ab6499c66519826e9c46
+    m_Address: CESI_Zortrax M200 plus 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5233fc63451d1d943acb88243d0e8829
+    m_Address: CESI_XYZ_DAVINCI_MERGE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d1457fe5dc10e3459880f3a4b4cad88
+    m_Address: CESI_press_textile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 684f0cc205424994fbf6cc545b99b709
+    m_Address: CESI_laminateur_vinyle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8720e293acbec545abaa923ec85289c
+    m_Address: CESI_export_vitrine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3aef94868713033438f2a1846e37cf09
+    m_Address: Table Fablab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3094296d86acc78479b5bdb825cba217
+    m_Address: CESI_chair
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e92b74538984d724a91ee854bc8a7b08
+    m_Address: PosteTour
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1221fee7ec379644db5d973a0c388ae2
+    m_Address: Table_bleue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 639dd5dfb053ed347af111d520090ce9
+    m_Address: CESI_ferasouder_expl2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 524bdaeb961149d4f9488053cccd5247
+    m_Address: CESI_generateur
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6b041e9391654c44bb8e01d8fadf64a
+    m_Address: CESI_osciloscope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13ace5cc424d19041973e8c19cf1d983
+    m_Address: Moniteur
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4853238fe819c9c43a3cffd11dde337b
+    m_Address: CESI_zing40W_SP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aebc6b9cbcc53b047bd98d3bbe635173
+    m_Address: CESI_3Dstratatsys_SP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5d56c47ea1a0684f8b18c2ff1e97539
+    m_Address: CESI_Fusion_Laser
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 919cc71c6a304dc46bfbe1efaa67821b
+    m_Address: CESI_decoupe_vinyl
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18999d6af84767a41a8736521110352d
+    m_Address: CESI_Ubbo_SP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cd6c6a476230f14799ff9d5a9a284f2
+    m_Address: CESI_CR30_mill_rope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7baefb5d8a9687e41aba27aad0f8d529
+    m_Address: LargeArmoire
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c16b17e72c3bc6c4e95efcbc40800f09
+    m_Address: PC_Ecran
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d2b77c8f8e784047ae020cfdc52ba27
+    m_Address: Table
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31c7d01ac21308844891f94c4c7880f5
+    m_Address: Cabinet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f82a02a5754259f4fac537f64251d1d8
+    m_Address: Mouse
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bda7a27465a92f443a7e691987c02bd4
+    m_Address: Keyboard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f27ce2b0a550e824091d5d87e0342ff1
+    m_Address: PC TOUR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 440e2dfb9c2cce948bbf3801429d38c3
+    m_Address: Chair
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd4d4df0b88c41440a3d9cb56992e218
+    m_Address: Extincteur
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc2395e28ced74942adfd28e52b84f47
+    m_Address: PosteRavitaillement1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70f9bc716451b5c4b86550943392797d
+    m_Address: PosteRavitaillement
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a07e7098d1d43b1409926d8981072998
+    m_Address: Kakemono_JENII
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be642000d253a344fb13d3946ab49fe7
+    m_Address: Kakemono_LINEACT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c73f81459b0ce4448a1bc2b468771914
+    m_Address: Assets/PropHunt/Prefabs/Props/05_Totem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f175692be282e4f479892e91b495c5fa
+    m_Address: Ecran_roulettes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c7dd9f4316721540aecc87ae4c82dcc
+    m_Address: MIR100
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be131b57523fc2846b47ddf78c6b334f
+    m_Address: MIR100_Arm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb06ae4318358a84c97b024685b00195
+    m_Address: MIR100_Bike
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38a2de2f998869f4c86ef954733f319d
+    m_Address: Chariot_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f0c75f4d835e7d4d86ac20f9a1693ad
+    m_Address: Velo_Full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df72a14826f21b745a00e91a3d10caed
+    m_Address: Velo_Step1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6760d1861715b0b40afe6b7516273b41
+    m_Address: Chaise
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 869d8dffd1e6e684383dceae4013f77a
+    m_Address: Poste 6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2adb803c73c9774c8469a46def63165
+    m_Address: Poste 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c06f3232e7764e745902b3784b6020d0
+    m_Address: Poste 4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c12a95a3190694346a25325c2b2ff66d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6f54fb5d3ed22ab4c8d003e604796504, type: 2}
+    - {fileID: 11400000, guid: 464778503d8cd07468cd562cfafb7caf, type: 2}
