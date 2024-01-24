@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/FactoryFrenzy/Scenes/FrenzyFactoryVR.unity
+    guid: c58b42dc04f8f80418c0f0d0940849b3
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 75418260081a0fd4385b6635e552e8d6,
       type: 2}

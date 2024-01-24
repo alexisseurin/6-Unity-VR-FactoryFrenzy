@@ -16,7 +16,7 @@ public class RadialMenu : MonoBehaviour
 
     private XRController xrController; // Ajout d'une variable pour le XRController
 
-    private NavMeshAgent robotAgent; // Ajout d'une variable pour le NavMeshAgent du robot
+    //private NavMeshAgent robotAgent; // Ajout d'une variable pour le NavMeshAgent du robot
 
     public GameObject robotRay; // Ajout d'un GameObject pour le robot ray
 
@@ -26,7 +26,7 @@ public class RadialMenu : MonoBehaviour
     {
         //CreateAndSetupSection();
         xrController = GetComponent<XRController>(); // Récupération du XRController actuel
-        robotAgent = robot.GetComponent<NavMeshAgent>(); // Récupération du NavMeshAgent du robot
+        //robotAgent = robot.GetComponent<NavMeshAgent>(); // Récupération du NavMeshAgent du robot
     }
 
     // Start is called before the first frame update
@@ -99,12 +99,12 @@ public class RadialMenu : MonoBehaviour
             float t = elapsedTime / duration; // Calcule la fraction du mouvement effectué
 
             // Déplace le robot vers la caméra en utilisant le NavMeshAgent
-            robotAgent.SetDestination(Vector3.Lerp(robot.transform.position, gameCamera.transform.position, t));
+            //robotAgent.SetDestination(Vector3.Lerp(robot.transform.position, gameCamera.transform.position, t));
 
             yield return null; // Attend la prochaine frame
         }
 
-        robotAgent.SetDestination(gameCamera.transform.position); // Assure que le robot atteint la position de la caméra
+        //robotAgent.SetDestination(gameCamera.transform.position); // Assure que le robot atteint la position de la caméra
     }
 
     // Coroutine pour déplacer le robot vers le point où pointe le robot ray
@@ -125,12 +125,12 @@ public class RadialMenu : MonoBehaviour
                 float t = elapsedTime / duration; // Calcule la fraction du mouvement effectué
 
                 // Déplace le robot vers le point où pointe le robot ray en utilisant le NavMeshAgent
-                robotAgent.SetDestination(Vector3.Lerp(robot.transform.position, targetPosition, t));
+                //robotAgent.SetDestination(Vector3.Lerp(robot.transform.position, targetPosition, t));
 
                 yield return null; // Attend la prochaine frame
             }
 
-            robotAgent.SetDestination(targetPosition); // Assure que le robot atteint le point où pointe le robot ray
+            //robotAgent.SetDestination(targetPosition); // Assure que le robot atteint le point où pointe le robot ray
         }
     }
 
